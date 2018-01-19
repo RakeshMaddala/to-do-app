@@ -1,6 +1,6 @@
-# Angular 5.1.0 example to-dos application
+# Angular 5.2.0 example to-dos application
 
-Example Angular 5.1.0 to-dos application built from scratch, using the angular-cli. 
+Example Angular 5.2.0 to-dos application built from scratch, using the angular-cli. 
 
 This app manages to-dos. Using the app, the user can list, add, edit and remove to-dos.
 
@@ -9,7 +9,7 @@ This app manages to-dos. Using the app, the user can list, add, edit and remove 
  - [node](https://nodejs.org/en/download/) version 8.9.0 or higher.
  - [Get VS Code](https://code.visualstudio.com/download).
  - [yarn](https://yarnpkg.com/lang/en/docs/install/) version 1.3.2 or higher.
- - [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+ - [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ![tech-stack-logos](https://i.imgur.com/Q3X8kbp.gif)
 
