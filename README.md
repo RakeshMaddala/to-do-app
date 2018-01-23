@@ -1,5 +1,7 @@
 # Angular 5.2.0 example to-dos application
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/orlando-c-h/to-do-app.svg)](https://greenkeeper.io/)
+
 Example Angular 5.2.0 to-dos application built from scratch, using the angular-cli. 
 
 This app manages to-dos. Using the app, the user can list, add, edit and remove to-dos.
