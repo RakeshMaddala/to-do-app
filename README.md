@@ -1,15 +1,15 @@
-# Angular 5.2.0 example to-dos application
+# Angular 5.2.4 example to-dos application
 
-Example Angular 5.2.0 to-dos application built from scratch, using the angular-cli. 
+Example Angular 5.2.4 to-dos application built from scratch, using the angular-cli. 
 
 This app manages to-dos. Using the app, the user can list, add, edit and remove to-dos.
 
 ### Prerequisites
 
- - [node](https://nodejs.org/en/download/) version 8.9.0 or higher.
+ - [node](https://nodejs.org/en/download/) version 8.9.4 or higher.
  - [Get VS Code](https://code.visualstudio.com/download).
  - [yarn](https://yarnpkg.com/lang/en/docs/install/) version 1.3.2 or higher.
- - [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+ - [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ![tech-stack-logos](https://i.imgur.com/Q3X8kbp.gif)
 
@@ -37,6 +37,7 @@ ng serve
 ### Libraries already included in the App
  - [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
  - [ng-bootstrap](https://ng-bootstrap.github.io) - Angular powered Bootstrap
+ - [font-awesome 5.x](https://github.com/FortAwesome/Font-Awesome) - Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.
 
 ## Code scaffolding
 
